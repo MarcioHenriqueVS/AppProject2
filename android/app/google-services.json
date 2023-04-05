@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623290237634",
+    "project_id": "tdahfirst-mhvs",
+    "storage_bucket": "tdahfirst-mhvs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623290237634:android:213cc2749a46d68338f15b",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623290237634-ojungff4va02o8q19ckbp88a7rrkovak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7LJR1cPW9YT_eB2DMdl4wMTkCh2jO2Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623290237634-ojungff4va02o8q19ckbp88a7rrkovak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
